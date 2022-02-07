@@ -1,3 +1,3 @@
 print('i love ny!'.upper())
 # n jjj wow
-#git log, git log --pretty=oneline
+#git log, git log --pretty=oneline k
