@@ -14,4 +14,4 @@ print('i love ny!'.upper())
 # git checkout master
 # git merge my-temporary-work
 
-# bad exp
+# bad exp.
