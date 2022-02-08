@@ -14,4 +14,4 @@ print('i love ny!'.upper())
 # git checkout master
 # git merge my-temporary-work
 
-# bad exp.
+# git reset --hard HEAD~2 --> deleting commit(s) 2 means amount
