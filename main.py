@@ -5,5 +5,11 @@ print('i love ny!'.upper())
 # git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 # alias (alias gs='git status ')
 # git config --global alias.hist "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+# git checkout <hash>
 
-#some text
+# some text
+
+# Fix troubles with git checkout
+# git branch my-temporary-work
+# git checkout master
+# git merge my-temporary-work
