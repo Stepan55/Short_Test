@@ -17,3 +17,5 @@ print('i love ny!'.upper())
 # git reset --hard HEAD~2 --> deleting commit(s) 2 means amount
 
 # HEAD detached to fix it u need this --> (git checkout master)
+
+# 20th line some text. . .
